@@ -5,7 +5,8 @@
 
 📖 Sobre mí
 
-💻 Programador Full Stack JavaScript Node y React JS y C# (Junior) 
+💻 Programador Full Stack JavaScript (Junior) 
+🎓 Estudiante del Ultimo año de Analista en Sistemas
 ⚡ Apasionado por la el mundo IT y la Tecnología 
 🌱 Actualmente profundizando en **JavaScript (Node.js & React)**  
 
@@ -26,7 +27,7 @@
 ## 📌 Últimos proyectos  
 
 - 🔧[https://github.com/DenisPetrasso77/proyecto-sistema-erp-practicas-III.git]
-- 🔧
+
 
 ---
 
