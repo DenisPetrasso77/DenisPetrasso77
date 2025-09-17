@@ -1,5 +1,4 @@
 <!-- Banner -->
-![Banner](https://i.imgur.com/w1D8oNv.jpeg)
 
 # 👋 Hola, soy Denis Petrasso!
 
