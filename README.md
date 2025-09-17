@@ -30,12 +30,6 @@
 
 ---
 
-## 📊 Mis estadísticas en GitHub  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DenisPetrasso77&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisPetrasso77&layout=compact&theme=tokyonight)  
-
----
 
 ## 🌍 Contacto  
 
