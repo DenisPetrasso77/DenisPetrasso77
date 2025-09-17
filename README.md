@@ -1,16 +1,39 @@
-## Hi there 👋
+<!-- Banner -->
+![Banner](https://i.imgur.com/w1D8oNv.jpeg)
 
-<!--
-**DenisPetrasso77/DenisPetrasso77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hola, soy Denis Petrasso!
 
-Here are some ideas to get you started:
+💻 Programador Full Stack JavaScript Node y React JS y C# (Junior) 
+⚡ Apasionado por la el mundo IT y la Tecnología 
+🌱 Actualmente profundizando en **JavaScript (Node.js & React)**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologías y herramientas  
+
+- 💻 **C#, .NET**
+- 🌐 **HTML, CSS, JavaScript**  
+- ⚛️ **React**  
+- 🌱 **Node.js**  
+- 🧑‍💻 **Git & GitHub**  
+
+---
+
+---
+
+## 📌 Últimos proyectos  
+
+- 🔧[https://github.com/DenisPetrasso77/proyecto-sistema-erp-practicas-III.git]
+- 🔧
+
+---
+
+## 🌍 Contacto  
+
+📍 Buenos Aires, Argentina  
+
+📧 [denispetrasso77@gmail.com]
+
+🔗[https://www.linkedin.com/in/denis-petrasso/]
+
+---
