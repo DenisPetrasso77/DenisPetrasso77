@@ -1,7 +1,12 @@
 <!-- Banner -->
-238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif
+
+
 
 # 👋 Hola, soy Denis Petrasso!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DenisPetrasso77/DenisPetrasso77/main/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" alt="GIF divertido" width="625px" />
+</p>
 
 📖 Sobre mí
 
