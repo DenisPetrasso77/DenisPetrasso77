@@ -1,4 +1,5 @@
 <!-- Banner -->
+238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif
 
 # 👋 Hola, soy Denis Petrasso!
 
