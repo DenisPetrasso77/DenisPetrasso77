@@ -1,8 +1,4 @@
-<!-- Banner -->
-
-
-
-# 👋 Hola, soy Denis Petrasso!
+<h1 align="center">¡Hola, soy Denis Petrasso! 👋</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DenisPetrasso77/DenisPetrasso77/main/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" alt="GIF divertido" width="625px" />
@@ -27,11 +23,20 @@
 
 ---
 
+### 📊 Estadísticas de GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DenisPetrasso77&show_icons=true&theme=radical" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisPetrasso77&layout=compact&theme=radical" alt="top langs" />
+</p>
+
 ---
 
-## 📌 Últimos proyectos  
+# 📌 Últimos proyectos  
 
-- 🔧[https://github.com/DenisPetrasso77/proyecto-sistema-erp-practicas-III.git]
+🔧[https://github.com/DenisPetrasso77/proyecto-sistema-erp-practicas-III.git]
 
 
 ---
@@ -46,3 +51,5 @@
 🔗[https://www.linkedin.com/in/denis-petrasso/]
 
 ---
+
+⭐️ _“Siempre aprendiendo y compartiendo conocimiento”_
