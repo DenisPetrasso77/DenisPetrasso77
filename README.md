@@ -32,6 +32,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisPetrasso77&layout=compact&theme=radical" alt="top langs" />
 </p>
 
+![Snake animation](./github-contribution-grid-snake.svg)
+
+
 ---
 
 # 📌 Últimos proyectos  
