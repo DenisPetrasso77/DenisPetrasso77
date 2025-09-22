@@ -4,18 +4,20 @@
   <img src="https://raw.githubusercontent.com/DenisPetrasso77/DenisPetrasso77/main/Banner.gif" alt="GIF divertido" width="625px" />
 </p>
 
-📖 Sobre mí
+---
 
-💻 Programador Full Stack JavaScript (Junior) 
-🎓 Estudiante del Ultimo año de Analista en Sistemas
-⚡ Apasionado por la el mundo IT y la Tecnología 
-🌱 Actualmente profundizando en **JavaScript (Node.js & React)**  
+## 📖 Sobre mí  
+
+- 💻 Programador **Full Stack JavaScript (Junior)**  
+- 🎓 Estudiante del **último año de Analista en Sistemas**  
+- ⚡ Apasionado por el mundo IT y la Tecnología  
+- 🌱 Actualmente profundizando en **JavaScript (Node.js & React)**  
 
 ---
 
 ## 🚀 Tecnologías y herramientas  
 
-- 💻 **C#, .NET**
+- 💻 **C#, .NET**  
 - 🌐 **HTML, CSS, JavaScript**  
 - ⚛️ **React**  
 - 🌱 **Node.js**  
@@ -23,7 +25,8 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+## 📊 Estadísticas de GitHub  
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DenisPetrasso77&show_icons=true&theme=radical" alt="stats" />
 </p>
@@ -32,27 +35,24 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisPetrasso77&layout=compact&theme=radical" alt="top langs" />
 </p>
 
-![Snake animation](./github-contribution-grid-snake.svg)
-
-
----
-
-# 📌 Últimos proyectos  
-
-🔧[https://github.com/DenisPetrasso77/proyecto-sistema-erp-practicas-III.git]
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DenisPetrasso77/DenisPetrasso77/main/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ---
 
+## 📌 Últimos proyectos  
+
+- 🔧 [Proyecto Sistema ERP (Prácticas III)](https://github.com/DenisPetrasso77/proyecto-sistema-erp-practicas-III)
+
+---
 
 ## 🌍 Contacto  
 
-📍 Buenos Aires, Argentina  
-
-📧 [denispetrasso77@gmail.com]
-
-🔗[https://www.linkedin.com/in/denis-petrasso/]
+- 📍 Buenos Aires, Argentina  
+- 📧 [denispetrasso77@gmail.com](mailto:denispetrasso77@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/denis-petrasso/)  
 
 ---
 
-⭐️ _“Siempre aprendiendo y compartiendo conocimiento”_
+⭐️ _“Siempre aprendiendo y compartiendo conocimiento”_  
