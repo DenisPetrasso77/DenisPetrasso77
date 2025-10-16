@@ -24,6 +24,8 @@
 
 ## 🚀 Tecnologías y herramientas  
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 - 💻 **C#, .NET**  
 - 🌐 **HTML, CSS, JavaScript**  
 - ⚛️ **React**  
