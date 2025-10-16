@@ -23,14 +23,18 @@
 ---
 
 ## 🚀 Tecnologías y herramientas  
+- Front End
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,js,react)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+- Back End
+[![My Skills](https://skillicons.dev/icons?i=cs,nodejs,postman,firebase, )](https://skillicons.dev)
 
-- 💻 **C#, .NET**  
-- 🌐 **HTML, CSS, JavaScript**  
-- ⚛️ **React**  
-- 🌱 **Node.js**  
-- 🧑‍💻 **Git & GitHub**  
+- Base de Datos
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite	)](https://skillicons.dev)
+
+- Plataformas
+[![My Skills](https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,git,github,gitlab,)](https://skillicons.dev)
+
 
 ---
 
