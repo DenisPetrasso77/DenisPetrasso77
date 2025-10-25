@@ -1,11 +1,7 @@
 <h1 align="center">¡Hola, soy Denis Petrasso! 👋</h1>
 
 <!-- Texto animado estilo máquina de escribir -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00F700&width=500&lines=Programador+Full+Stack+💻;Apasionado+por+la+tecnolog%C3%ADa+⚡" alt="Typing SVG" />
-  </a>
-</p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DenisPetrasso77/DenisPetrasso77/main/Banner.gif" alt="GIF divertido" width="625px" />
@@ -15,7 +11,7 @@
 
 ## 📖 Sobre mí  
 
-- 💻 Software Developer*  
+- 💻 Software Developer
 - 🎓 Estudiante del **último año de Analista en Sistemas**  
 - ⚡ Apasionado por el mundo IT y la Tecnología  
 - 🌱 Actualmente profundizando en **JavaScript (Node.js & React)**  
