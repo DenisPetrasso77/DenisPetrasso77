@@ -15,7 +15,7 @@
 
 ## 📖 Sobre mí  
 
-- 💻 Programador **Full Stack JavaScript (Junior)**  
+- 💻 Software Developer*  
 - 🎓 Estudiante del **último año de Analista en Sistemas**  
 - ⚡ Apasionado por el mundo IT y la Tecnología  
 - 🌱 Actualmente profundizando en **JavaScript (Node.js & React)**  
