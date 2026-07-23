@@ -12,7 +12,7 @@
 ## 📖 Sobre mí  
 
 - 💻 Software Developer
-- 🎓 Estudiante del **último año de Analista en Sistemas**  
+- 🎓 **Analista en Sistemas**  
 - ⚡ Apasionado por el mundo IT y la Tecnología  
 - 🌱 Actualmente profundizando en **JavaScript (Node.js & React)**  
 
